@@ -1,0 +1,4 @@
+name: FocusAPIRemainSky
+version: '${project.version}'
+main: fr.robotv2.focusapiremainsky.FocusAPIRemainSky
+api-version: '1.20'
